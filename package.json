@@ -1,0 +1,26 @@
+{
+  "name": "cartify-js",
+  "version": "0.0.1",
+  "description": "Simple js cart managment, for use with serverless infastructure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/thecrogers/cartify-js",
+  "keywords": [
+    "cart-managment",
+    "in-browser cart",
+    "storefront",
+    "buy",
+    "cart"
+  ],
+  "author": "thecrogers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecrogers/cartify-js/issues"
+  },
+  "homepage": "https://github.com/thecrogers/cartify-js#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}
